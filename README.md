@@ -48,10 +48,10 @@ The dataset is named `Titanic-Dataset.csv` and includes the following features:
 ## Installation and Usage
 
 ### Required Libraries
-The following Python libraries are required:
+The required libraries can be installed using the following command:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+pip install -r requirements.txt
 ```
 
 ### Running the Project
